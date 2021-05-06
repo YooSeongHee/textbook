@@ -14,5 +14,9 @@
 ### 2. 연습문제 코드 확인
 
 # ✔ 활용 방법
+* requrirement 설치 방법
+설치 방법:
+  pip install requrirement
+
 
 * 이메일 링크: <xodwk2049@gmail.com>
