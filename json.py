@@ -6,7 +6,7 @@ Created on Mon Mar 29 21:16:36 2021
 """
 import json
 
-with open(r'C:\Users\유성희\Desktop\script\text\practice.JSON', 'r', encoding = 'utf8') as f:
+with open(r'..\script\text\practice.JSON', 'r', encoding = 'utf8') as f:
  	txt = json.load(f)
  	for document in txt['document']:
  		for sentence in document['sentence']:
