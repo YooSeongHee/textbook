@@ -14,11 +14,10 @@
 ### 2. 연습문제 코드 확인
 
 # ✔ 활용 방법
-* requirement 설치 방법
-This is a normal paragraph:
+* requirement 설치 방법   
 
    pip install requirement
 
-end code block.
+
 
 * 이메일 링크: <xodwk2049@gmail.com>
