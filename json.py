@@ -6,17 +6,15 @@ Created on Mon Mar 29 21:16:36 2021
 """
 # import json
 
-# with open(r'C:\Users\유성희\Desktop\script\text\practice.JSON', 'r', encoding = 'utf8') as f:
-# 	txt = json.load(f)
-# 	for document in txt['document']:
-# 		print(document)
-# 		for sentence in document['sentence']:
-# 			id_ = sentence['id']
-# 			form = sentence['form']
-# 			for word in sentence['word']:
-# 				word_form = word['form']
-# 				anal = word['anal']
-# 				print(word_form, anal)
+with open(r'C:\Users\유성희\Desktop\script\text\practice.JSON', 'r', encoding = 'utf8') as f:
+ 	txt = json.load(f)
+ 	for document in txt['document']:
+ 		print(document)
+ 		for sentence in document['sentence']:
+ 			id_ = sentence['id']
+ 			form = sentence['form']
+ 			for word in sentence['word']:
+ 				word_form = word['form']
+ 				anal = word['anal']
+ 				print(word_form, anal)
 
-sent= "동해물과 백두산이 마르고 닳도록"
-print(sent[3:-1])
