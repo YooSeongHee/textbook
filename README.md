@@ -10,9 +10,9 @@
 * 2. 연습문제 코드 확인
 
 ### 1. code
-
+Link: [code][https://github.com/YooSeongHee/textbook/tree/main/code]
 ### 2. refer
-
+link: [reference][https://github.com/YooSeongHee/textbook/tree/main/refer]
 # ✔ 활용 방법
 * requirement 설치 방법   
 
