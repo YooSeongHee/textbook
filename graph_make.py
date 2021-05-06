@@ -9,7 +9,7 @@ import os, re
 import collections
 from matplotlib import font_manager, rc
 
-for root, dirs, files in os.walk(r'C:\Users\유성희\Desktop\script\text'):
+for root, dirs, files in os.walk(r'..\script\text'):
 	for fn in files:
 		fp = os.path.join(root, fn)
 		with open(fp, 'r', encoding = 'utf8', errors='ignore') as f:
