@@ -7,8 +7,8 @@ Created on Sat May 30 15:44:12 2020
 """
 import collections
 
-load = open(r'C:\Users\유성희\Desktop\script\운수 좋은 날.txt', encoding = 'utf8')
-save = open(r'C:\Users\유성희\Desktop\script\result\result.txt', 'w', encoding = 'utf8')
+load = open(r'..\script\운수 좋은 날.txt', encoding = 'utf8')
+save = open(r'..\script\result\result.txt', 'w', encoding = 'utf8')
 lines = load.readlines()
 
 word_frq_dict = collections.Counter()
