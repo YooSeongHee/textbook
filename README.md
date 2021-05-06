@@ -15,8 +15,10 @@
 
 # ✔ 활용 방법
 * requirement 설치 방법
-설치 방법:
+This is a normal paragraph:
+
    pip install requirement
 
+end code block.
 
 * 이메일 링크: <xodwk2049@gmail.com>
