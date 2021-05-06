@@ -16,7 +16,7 @@
 # ✔ 활용 방법
 * requirement 설치 방법   
 
-   pip install requirements
+      pip install requirements
 
 
 
