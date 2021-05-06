@@ -9,7 +9,6 @@ import json
 with open(r'C:\Users\유성희\Desktop\script\text\practice.JSON', 'r', encoding = 'utf8') as f:
  	txt = json.load(f)
  	for document in txt['document']:
- 		print(document)
  		for sentence in document['sentence']:
  			id_ = sentence['id']
  			form = sentence['form']
