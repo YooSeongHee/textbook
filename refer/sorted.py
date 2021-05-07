@@ -2,7 +2,7 @@
 """
 Created on Wed Jul  8 00:08:08 2020
 
-@author: 유성희
+@author: yukbi
 """
 
 #str
