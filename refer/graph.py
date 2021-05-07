@@ -2,7 +2,7 @@
 """
 Created on Sun Aug  9 20:43:01 2020
 
-@author: 유성희
+@author: yukbi
 """
 
 import matplotlib.pyplot as plt
