@@ -2,7 +2,7 @@
 """
 Created on Wed Feb 24 23:33:56 2021
 
-@author: user
+@author: yukbi
 """
 import matplotlib.pyplot as plt
 import os, re
