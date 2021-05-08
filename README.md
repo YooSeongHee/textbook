@@ -18,7 +18,7 @@
 # ✔ 활용 방법
 * requirement 설치 방법(파일이랑 코드 수정해야함)  
 
-      pip install https://github.com/YooSeongHee/textbook/requirements
+      pip install https:/github.com/YooSeongHee/textbook/requirements
 
 
 
