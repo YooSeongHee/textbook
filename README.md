@@ -9,11 +9,11 @@
 * 2. 연습문제 코드 확인
 
 ### 1. code
-텍스트북에 제시된 코드
+텍스트북에 제시된 코드   
 **code** [https://github.com/YooSeongHee/textbook/tree/main/code]
 
 ### 2. refer
-텍스트북에서 제시한 참고용 코드
+텍스트북에서 제시한 참고용 코드   
 **reference** [https://github.com/YooSeongHee/textbook/tree/main/refer]
 # ✔ 활용 방법
 * requirement 설치 방법(파일이랑 코드 수정해야함)  
